@@ -9,7 +9,7 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    background: linear-gradient(180deg, lightblue, rgb(59, 59, 255), lightblue);
+    background: linear-gradient(180deg, rgb(173, 230, 182), rgb(59, 255, 101), rgb(175, 230, 173));
     background-size: 200% 200%;
     animation: gradientAnimation 10s ease infinite;
 }
